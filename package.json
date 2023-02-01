@@ -1,0 +1,19 @@
+{
+  "name": "web-app-elbri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChrisCodeX/Web-App-Elbri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisCodeX/Web-App-Elbri/issues"
+  },
+  "homepage": "https://github.com/ChrisCodeX/Web-App-Elbri#readme"
+}
